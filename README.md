@@ -3,9 +3,9 @@ A command line menu that list your ec2 instances by their tag name and let you S
 Written in python
 
 ## Requirements 
--------------
-`AWS CLI <https://github.com/aws/aws-cli>`__ and
-`boto3 <https://github.com/boto/boto3>`__.
+- AWS CLI <https://github.com/aws/aws-cli>
+- boto3 <https://github.com/boto/boto3>
 
+-------------
 
 Clone and run in your cli: **python menu.py**
