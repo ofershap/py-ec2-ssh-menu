@@ -15,7 +15,7 @@ colors = {
 filter = False
 if len(sys.argv) > 1 :
     filter = sys.argv[1]
-print 'filtering by: ' + filter
+    print 'filtering by: ' + filter
  
 
 def colorize(string, color):
