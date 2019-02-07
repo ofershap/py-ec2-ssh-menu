@@ -8,4 +8,4 @@ Written in python
 
 -------------
 
-Clone and run in your cli: **python menu.py**
+Clone and run in your cli: **python ss.py**
